@@ -1,3 +1,4 @@
+//  Check result https://www.javainuse.com/aesgenerator
 using System.Security.Cryptography;
 using System.Text;
 static string Encrypt(string plaintext, string password, string IV)
